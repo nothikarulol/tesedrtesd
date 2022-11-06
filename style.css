@@ -3,9 +3,9 @@
 :root{
   --color-default:#2c2e30;
   --color-second:#424547;
-  --color-white:rgb(48, 41, 41);
+  --color-white:rgb(245, 240, 240);
   --color-body:#34363b;
-  --color-light:#3d3a3a;
+  --color-light:#e9e9e9;
 }
 
 *{
