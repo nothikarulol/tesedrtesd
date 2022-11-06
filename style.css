@@ -2,9 +2,9 @@
 
 :root{
   --color-default:#2c2e30;
-  --color-second:#424547;
+  --color-second:#2c2e30;
   --color-white:rgb(245, 240, 240);
-  --color-body:#34363b;
+  --color-body:#2c2e30;
   --color-light:#e9e9e9;
 }
 
